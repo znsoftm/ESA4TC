@@ -1,4 +1,4 @@
-## TCSD for Chinese ##
+## HLTC for Chinese ##
 
 This repository is acommodating code for paper **HLTCC: Human-Like Text Classification for Chinese **.
  
